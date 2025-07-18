@@ -102,6 +102,7 @@ jspm_packages/
 .parcel-cache
 
 # next.js build output
+.next/
 .next
 
 # nuxt.js build output
@@ -141,4 +142,7 @@ uploads/
 
 # Backup files
 *.bak
-*.backup 
+*.backup
+
+# Vercel
+.vercel 
