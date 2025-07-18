@@ -142,7 +142,7 @@ async def get_training_suggestions(
                 ]
             }
         ]
-    }
+    } 
 
 @router.post("/evaluate-image")
 async def evaluate_image(
