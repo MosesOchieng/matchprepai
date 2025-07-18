@@ -22,7 +22,8 @@
     "postcss": "8.4.31",
     "@heroicons/react": "2.0.18",
     "framer-motion": "10.16.4",
-    "clsx": "2.0.0"
+    "clsx": "2.0.0",
+    "react-hot-toast": "^2.4.1"
   },
   "devDependencies": {
     "eslint": "8.53.0",
